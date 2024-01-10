@@ -7,12 +7,17 @@
 MyToDoApp is a simple and intuitive to-do list application for Android. Keep track of your tasks, manage your day, and stay organized with this easy-to-use app.
 
 ## Features
+• Due Date: Each task should have a due date.
 
-- Add tasks with titles and optional descriptions
-- Mark tasks as completed
-- Edit existing tasks
-- Delete tasks
-- Clean and intuitive user interface
+• Priority Levels: Assign priority to tasks as Low, Medium, or High.
+
+• Category: Ability to categorize tasks.
+
+• Task Status: Mark tasks as New, In Progress, or Completed.
+
+• Title and Description: Each task should have a title and a detailed description.
+
+• Local Storage: The app should use local storage to save tasks.
 
 ## Screenshots
 
