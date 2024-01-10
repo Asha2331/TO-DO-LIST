@@ -1,6 +1,6 @@
 # MyToDoApp
 
-![App Screenshot](screenshots/screenshot.png)
+![App Screenshot](to-do-pics.png)
 
 ## Overview
 
